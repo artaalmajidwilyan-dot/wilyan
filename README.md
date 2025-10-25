@@ -1,26 +1,6 @@
 Samsung.Watch
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Samsung Galaxy Watch FE</title>
-  <meta name="description" content="Samsung Galaxy FE - Jam tangan pintar dengan fitur kesehatan, olahraga, dan desain elegan.">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #430aad;
-      color: #0c0c0c;
-    }
-    header {
-      background-color: #7990b1;
-      color: rgb(18, 18, 18);
-      text-align: center;
-      padding: 20px;
-    }
+  
     main {
       max-width: 800px;
       margin: 30px auto;
