@@ -1,1 +1,94 @@
-# wilyan
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Samsung Galaxy Watch FE</title>
+  <meta name="description" content="Samsung Galaxy FE - Jam tangan pintar dengan fitur kesehatan, olahraga, dan desain elegan.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #430aad;
+      color: #0c0c0c;
+    }
+    header {
+      background-color: #7990b1;
+      color: rgb(18, 18, 18);
+      text-align: center;
+      padding: 20px;
+    }
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    img {
+      width: 100%;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+    img:hover {
+      transform: scale(1.03);
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    a.button {
+      display: inline-block;
+      text-decoration: none;
+      color: white;
+      background-color: #495970;
+      padding: 10px 20px;
+      border-radius: 8px;
+      margin-top: 15px;
+    }
+    a.button:hover {
+      background-color: #1f1f20;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background-color: #f5f7f9;
+      font-size: 14px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Samsung Galaxy FE</h1>
+    <p>Jam tangan pintar premium dengan fitur kesehatan canggih.</p>
+  </header>
+
+    <main>
+    <!-- Klik gambar untuk ke situs Samsung -->
+    <a href="https://www.samsung.com/id/watches/galaxy-watch6/" target="_blank">
+      <img src="https://i.pinimg.com/736x/15/2c/67/152c67415d66de092b17a90e254f364f.jpg" alt="Samsung Galaxy Watch6">
+    </a>
+    <h2>Harga: Rp4.999.000</h2>
+    <p>Samsung Galaxy Watch FE hadir dengan layar Super AMOLED, sensor kesehatan canggih, pelacak tidur, dan desain elegan. Terhubung sempurna dengan perangkat Samsung lainnya untuk pengalaman ekosistem terbaik.</p>
+    <p><b>Fitur Unggulan:</b></p>
+    <ul>
+      <li>Monitor detak jantung dan tekanan darah</li>
+      <li>Pelacak olahraga otomatis</li>
+      <li>Pelacak tidur dan stres</li>
+      <li>Daya tahan baterai hingga 40 jam</li>
+    </ul>
+    <center>
+      <a href="https://www.samsung.com/id/watches/galaxy-watch6/" target="_blank" class="button">Lihat di Situs Resmi</a>
+    </center>
+  </main>
+
+  <footer>
+    <p>© 2025 Samsung Indonesia | Halaman dibuat untuk tugas akademik</p>
+  </footer>
+
+</body>
+</html>
